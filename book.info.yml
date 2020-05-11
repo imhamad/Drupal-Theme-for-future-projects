@@ -1,0 +1,9 @@
+name: Multi-purpuse theme
+description: Drupal future projects theme
+type: theme
+core: 8.x
+libraries:
+  - book/global-css
+stylesheets-remove:
+  - core/themes/stable/css/system/components/align.module.css
+
